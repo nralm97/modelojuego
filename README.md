@@ -1,3 +1,5 @@
+### ⚙️ MODELO DE JUEGO USANDP NMF + MAPAS DE CALOR
+
 Cuando se comparan dos o más equipos (o jugadores) se suelen utilizar datos como cantidad de remates, centros, presiones, recuperaciones, etc. normalizados a 90 minutos. Este enfoque permite tener una idea de la fuerza y de las preferencias del equipo; sin embargo, para intentar bosquejar el estilo de juego no podemos obviar las zonas del campo donde sucede cada acción.
 
 Es por ello que este enfoque tiene en cuenta tanto la frecuencia como la ubicación de los eventos. Este procedimiento consiste en extraer los componentes significativos de los mapas de calor de eventing utilizando NMF (Factorización de matrices no negativas), una técnica de Aprendizaje no supervisado. El conocimiento del negocio (en este caso fútbol) servirá para elegir en cuántas partes se va a descomponer el heatmap original.
