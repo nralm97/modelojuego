@@ -7,8 +7,8 @@ Es por ello que este enfoque tiene en cuenta tanto la frecuencia como la ubicaci
 Se utilizaron datos de la liga española 2015/2016 extraídos de una base de datos free de Statsbomb
 A continuación algunas descomposiones:
 
-<img src="https://github.com/user-attachments/assets/831d323d-2ceb-4d4a-8653-f77ced06b5d8" width="250"/>
-<img src="https://github.com/user-attachments/assets/ecbd93f3-3704-441d-99d8-d98d4ce249d4" width="250"/>
-<img src="https://github.com/user-attachments/assets/a0c042cc-0bba-4128-bcd0-6dd8370c0797" width="250"/>
-<img src="https://github.com/user-attachments/assets/01215f54-c654-454b-9915-434a43905f5e" width="250"/>
+<img src="https://github.com/user-attachments/assets/831d323d-2ceb-4d4a-8653-f77ced06b5d8" width="220"/>
+<img src="https://github.com/user-attachments/assets/ecbd93f3-3704-441d-99d8-d98d4ce249d4" width="220"/>
+<img src="https://github.com/user-attachments/assets/a0c042cc-0bba-4128-bcd0-6dd8370c0797" width="220"/>
+<img src="https://github.com/user-attachments/assets/01215f54-c654-454b-9915-434a43905f5e" width="220"/>
 
