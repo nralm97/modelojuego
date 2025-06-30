@@ -20,7 +20,7 @@ Luego se realizó una descompoción para cada tipo de evento. Además este méto
 
 ### EJEMPLO
 Utilizaremos como ejemplo, una comparación entre FC Barcelona y Real Madrid C.F. temporada 2015/2016, y elegiremos como evento: "Pases hacia el área rival". Estos dos equipos fueron los que más pases de este tipo realizaron, lo cual es natural considerando el poderío ofensivo de ambos. 
-<img src="https://github.com/user-attachments/assets/84dd59c9-1da8-43c3-b8bd-00b75bd06000" width="250"/>
+<img src="https://github.com/user-attachments/assets/84dd59c9-1da8-43c3-b8bd-00b75bd06000" width="450"/>
 
 A pesar de que los conjuntos "blanco" y "blaugrana" son parecidos en cantidad de "Pases hacia el área rival"; vemos una diferencia en cómo llegan hacia ella.
 
@@ -28,8 +28,7 @@ Centros cortos o recortes cercanos al área grande. - Fue la forma más recurren
 Centros amplios, más pegados a las líneas laterales. - Los dirigidos por Zidane estuvieron en la media de la liga, mientras que el cuadro 'culé' no usó esta forma de juego.
 Pases desde zona central. - FBC Barcelona se diferenció ampliamente de los demás equipos por utilizar este tipo de pases para penetrar área rival.
 
-![imagen](https://github.com/user-attachments/assets/5c5c01f0-c6db-4f3a-a8d0-27a973aa869f)
-<img src="https://github.com/user-attachments/assets/5c5c01f0-c6db-4f3a-a8d0-27a973aa869f" width="250"/>
+<img src="https://github.com/user-attachments/assets/5c5c01f0-c6db-4f3a-a8d0-27a973aa869f" width="500"/>
 
 ### VALIDACIÓN
 Para la validación de usó MRR, para medir qué tan bien el modelo puede hacer coincidir a un equipo contra sí mismo basándose puramente en distribuciones de ubicación de eventos y frecuencias.
